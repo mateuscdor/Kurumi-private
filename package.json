@@ -1,6 +1,6 @@
 {
-  "name": "mizuhara",
-  "version": "1.0.0",
+  "name": "kurumi-md",
+  "version": "1.0.2",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "heart.js",
   "type": "commonjs",
@@ -16,7 +16,7 @@
     "baileys-md",
     "bot"
   ],
-  "author": "Team-Arus",
+  "author": "Eximinati",
   "license": "AGPL-3.0",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
@@ -67,7 +67,14 @@
     "yt-search": "^2.10.2"
   },
   "directories": {
-    "lib": "lib",
-    "src": "src"
-  }
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eximinati/Kurumi-private.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Eximinati/Kurumi-private/issues"
+  },
+  "homepage": "https://github.com/Eximinati/Kurumi-private#readme"
 }
