@@ -1,8 +1,8 @@
 {
-  "name": "Mizuhara~Arus",
+  "name": "Kurumi~md",
   "description": "whatsapp multi device bot build with nodejs on baileys",
-  "repository": "https://github.com/Arus-Bots/Mizuhara/",
-  "logo": "https://telegra.ph/file/324ba754638d6b0f97b94.jpg",
+  "repository": "https://github.com/Eximinati/Kurumi-md",
+  "logo": "https://telegra.ph/file/cf3819841e526138b3731.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
