@@ -10,15 +10,15 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'fa4d0aa17e',
+	'https://zenzapi.xyz': 'sanzychan01',
 }
 
 // Other
-global.owner = ['918231033230']
-global.packname = 'Mizuhara'
-global.prefix= ['=']
-global.author = 'Arus'
-global.sessionName = 'arus'
+global.owner = ['923087880256']
+global.packname = 'Ari'
+global.prefix= ['.']
+global.author = 'Ani'
+global.sessionName = 'Aku'
 global.reac = {
             cry:'Cried with',
             kiss: 'Kissed',
@@ -44,6 +44,7 @@ global.reac = {
             kick: 'Kicked',
             wink: 'Winked at',
             happy: 'is Happy with',
+            awoo: 'is idk',
             poke: 'Poked',
             dance:'is Dancing with'
         }
@@ -53,7 +54,7 @@ global.mess = {
     botAdmin: '*To use this command make me admin if u trust me...*',
     owner: '*Sorry!! this command is for my darling developers*',
     group: '*Leave me here alone please...*',
-    wait: '*Loading... please wait*',
+    wait: '*Loading... please wait goshujin sama*',
 }
 global.thumb = fs.readFileSync('./src/info.jpeg')
 
